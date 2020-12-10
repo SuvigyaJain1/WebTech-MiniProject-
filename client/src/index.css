@@ -1,0 +1,21 @@
+.card-title {
+  color: #DF2620;
+  font-family: 'Roboto', 'Helvetica';
+  font-size: 18px;
+}
+
+.card-author {
+  font-family: 'Roboto', 'sans-serif';
+  color: #ADADAD;
+  font-size: 12px;
+}
+
+.card-text {
+  font-family: 'Roboto', 'sans-serif';
+  color: #7678DB;
+  font-size: 14px;
+}
+
+.search-page{
+    text-align: center;
+}
